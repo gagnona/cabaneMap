@@ -1,0 +1,16 @@
+{
+    "name": "cabaneMap",
+    "version": "1.0.0",
+    "keywords": [
+        "util",
+        "functional",
+        "server",
+        "client",
+        "browser"
+    ],
+    "author": "andregagnon",
+    "contributors": [],
+    "dependencies": {
+        "http-server": "^0.11.1"
+    }
+}
